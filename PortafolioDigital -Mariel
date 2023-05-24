@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Portafolio Digital</title>
+
+  <style>
+
+ /* Estilos CSS para dar formato a la página */
+body{
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+header {
+
+background-color: #333;
+
+color: #fff;
+padding: 20px;
+text-align: center; }
+
+
+ section {
+  padding: 20px;
+ }
+
+ h2,h4 {
+  color: #333;
+ }
+
+ ul {
+  list-style-type: none;
+  padding: 0;
+ }
+
+ li {
+ margin-bottom: 10px;
+ }
+
+ a {
+  color: #333;
+  text-decoration: none;
+ }
+
+ a:hover {
+  text-decoration: underline;
+ }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+
+    <h1>Portafolio Digital</h1>
+
+  </header>
+
+<section>
+
+    <h2>Presentación</h2>
+    <p>Mi nombre es Mariel Jules, atualmente etoy estudiando Ingenieria de Software
+    Seria de gran agrado poder especializarme en el analisis de datos.
+    En este portafolio digital se observa información sobre mí y mis trabajos realizados.</p>
+
+</section>
+    <section>
+
+     <h2>Proyectos Realizados</h2>
+
+    <ul>
+
+     <li><a href="proyecto1.html">Proyecto 1</a></li>
+
+    <li><a href="proyecto2.html">Proyecto 2</a></li>
+
+     <li><a href="proyecto3.html">Proyecto 3</a></li>
+
+    </ul>
+
+ </section>
+
+
+
+
+<section>
+    <h2>Habilidades</h2>
+    <h4>Habilidades Blandas</h4>
+
+    <ul>
+    <li>Trabajo en Equipo</li>
+    <li>Flexibilidad</li>
+    <li>Comunicación y escucha asertiva</li>
+ </ul>
+ <h4>Habilidades Duras</h4>
+  <ul>
+     <li>C</li>
+     <li>C#</li>
+     <li>Java</li>
+     <li>Ingles Intermedio</li>
+     <li>Lengua materna: Español/li>
+  </ul>
+
+  </section>
+<section>
+
+    <h2>Experiencia</h2>
+
+    <p>No tengo mucha experiencia trabajando en el area de desarrollo, pero si he realizado proyectos en la universidad para cursos</p>
+
+ </section>
+ <section>
+        <h2>Enlaces a Otros Proyectos</h2>
+    <p>
+        No tengo proyectos por ahora.</p>
+ </section>
+</body>
+</html>
